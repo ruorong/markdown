@@ -9,7 +9,7 @@
 
 以此推类，注意在 # 后面加上一个字符的空格
 ```
-![image](https://github.com/ruorong/markdown/raw/master/image/title.jpg)
+![title](https://github.com/ruorong/markdown/raw/master/image/title.jpg)
 
 ## 🌒 列表
 >列表分为有序和无序两种， 符号要和文字之间加上一个字符的空格
@@ -63,7 +63,7 @@
  ***
  ## 🌘 语言的对齐
  每行末加两个字符的空格，在预览中就能换行了  
-  ![alignment](https://github.com/ruorong/markdown/raw/master/image/code.jpg)
+  ![alignment](https://github.com/ruorong/markdown/raw/master/image/alignment.jpg)
 ## 🌝 表格
 ```
 | Things        | Quantity      | Cost  |
