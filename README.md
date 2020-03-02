@@ -17,11 +17,13 @@
 在文字前加`1.  2.  3.`
 - 无序列表  
 需要在文字前加上` -` 或 `*`   
-![list](https://github.com/ruorong/markdown/raw/master/iamge/list.jpg)
+![list](https://github.com/ruorong/markdown/raw/master/image/list.jpg)
+
 
 ## 🌓 引用
 如果你需要引用别处的一段话，只需要在文字前使用引用符号 `> `
-![quote](https://github.com/ruorong/markdown/raw/master/iamge/quote.jpg)
+![quote](https://github.com/ruorong/markdown/raw/master/image/quote.jpg)
+
 ## 🌔 粗体、斜体、删除线
 - 粗体  
 用两个 `* `包含一段文本
@@ -30,7 +32,8 @@
 - 删除线  
 用两个 `~ `包含一段文本
 
-![effect](https://github.com/ruorong/markdown/raw/master/iamge/effect.jpg)
+![effect](https://github.com/ruorong/markdown/raw/master/image/effect.jpg)
+
 ## 🌕 插入图片、链接、URL
 🚩插入图片  
 - 第一种表示方法  
@@ -51,7 +54,8 @@
 ## 🌖 代码
  - 行内代码  
  只需要用两个` ` ` 把中间的代码包裹起来  
- ![code](https://github.com/ruorong/markdown/raw/master/iamge/code.jpg)
+ ![code](https://github.com/ruorong/markdown/raw/master/image/code.jpg)
+
  - 代码块  
  代码块通过两行` ``` ` 符号框出，如果你写的代码是某种语言，那么可以在第一行末尾加上这个语言的名字，代码块内的代码就会执行对应的高亮语法，例如Java
  ## 🌗 分割线
@@ -59,7 +63,7 @@
  ***
  ## 🌘 语言的对齐
  每行末加两个字符的空格，在预览中就能换行了  
-  ![alignment](https://github.com/ruorong/markdown/raw/master/iamge/alignment.jpg)
+  ![alignment](https://github.com/ruorong/markdown/raw/master/image/code.jpg)
 ## 🌝 表格
 ```
 | Things        | Quantity      | Cost  |
