@@ -1,6 +1,9 @@
 # markdown读书笔记
 >学习markdown的一些语法
 
+![github](https://img.shields.io/github/issues-pr/ruorong/markdown)
+![github](https://img.shields.io/github/issues/ruorong/markdown)
+
 ## 🌑 标题
 ```
 # 一级标题
