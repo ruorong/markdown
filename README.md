@@ -53,7 +53,7 @@
 `<xxxxx@xxx.com>`
 ## 🌖 代码
  - 行内代码  
- 只需要用两个` ` ` 把中间的代码包裹起来  
+ 只需要用两个``` ` ``` 把中间的代码包裹起来  
  ![code](https://github.com/ruorong/markdown/raw/master/image/code.jpg)
 
  - 代码块  
