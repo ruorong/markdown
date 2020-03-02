@@ -66,11 +66,11 @@
   ![alignment](https://github.com/ruorong/markdown/raw/master/image/alignment.jpg)
 ## 🌝 表格
 ```
-| Things    | Quantity  | Cost  |
-| --------- |:---------:| -----:|
-| apple     | 1         | $1600 |
-| banana    | 1         |   $12 |
-| pear      | 1         |    $1 |
+| Things      |  Quantity  | Cost  |
+| ----------- |:----------:| -----:|
+| apple       |    1000    | $1600 |
+| banana      |    1000    |   $12 |
+| watermelon  |    1000    |    $1 |
 ```
 其中
 - 文字默认偏右
